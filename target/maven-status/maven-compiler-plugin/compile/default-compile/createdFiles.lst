@@ -1,0 +1,4 @@
+App.class
+com\pretend\jaxtesting\ExampleService.class
+com\pretend\jaxtesting\RestService.class
+com\pretend\jaxtesting\JAXActivator.class
